@@ -11,3 +11,6 @@ http://www.jb51.net/article/81107.htm
 
 C#创建WCF服务控制台应用程序详解
 http://www.jb51.net/article/118569.htm
+
+How to add cross domain support to WCF service
+https://stackoverflow.com/questions/14047754/how-to-add-cross-domain-support-to-wcf-service
