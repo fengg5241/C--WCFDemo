@@ -6,6 +6,10 @@ http://www.cnblogs.com/iamlilinfeng/archive/2012/09/25/2700049.html
 如何打开iis设置
 http://ons.me/147.html
 
+iis 被锁
+http://www.cnblogs.com/lxhbky/p/6298118.html
+
+
 在IIS上部署WCF服务详细过程
 http://blog.csdn.net/hanmos/article/details/6152278
 
