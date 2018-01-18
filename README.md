@@ -1,5 +1,27 @@
 # C--WCFDemo
 
+无废话WCF入门教程一[什么是WCF] 好的例子
+http://www.cnblogs.com/iamlilinfeng/archive/2012/09/25/2700049.html
+
+在IIS上部署WCF服务详细过程
+http://blog.csdn.net/hanmos/article/details/6152278
+
+WCF开发实战系列二：使用IIS发布WCF服务（自定义）
+http://blog.csdn.net/zh_bing/article/details/7449810
+
+WCF 部署在IIS上（简化版）
+http://blog.csdn.net/jiankunking/article/details/44118911
+
+WCF 入门教程一（动手新建第一个WCF程序并部署）
+http://blog.csdn.net/jiankunking/article/details/44118625
+
+
+无废话WCF入门教程二[WCF应用的通信过程]
+http://www.cnblogs.com/iamlilinfeng/archive/2012/09/26/2703759.html
+
+无废话WCF入门教程四[WCF的配置文件]
+http://www.cnblogs.com/iamlilinfeng/archive/2012/10/02/2710224.html
+
 ASP.NET 3.5核心编程学习笔记：针对AJAX应用程序的WCF服务
 http://blog.csdn.net/ruiqi317/article/details/6417904
 
