@@ -14,3 +14,16 @@ http://www.jb51.net/article/118569.htm
 
 How to add cross domain support to WCF service
 https://stackoverflow.com/questions/14047754/how-to-add-cross-domain-support-to-wcf-service
+
+
+用navicat连接local db
+连接名：LocalDB
+主机名：(localdb)\MyLocalDB
+不过使用navicat等图形界面客户端需要Native Client依赖库，不过在官网找了一下，发现SQLServer 2016等版本都是使用SQLServer2012的Native Client依赖库，所以下载时候不要因为版本不一样而有什么疑虑。sqlncli.msi依赖：https://www.microsoft.com/zh-cn/download/details.aspx?id=50402。
+
+作者：Holmofy
+链接：https://www.jianshu.com/p/140ea805a308
+
+【WCF】使用WCF测试客户端
+http://blog.csdn.net/u013036274/article/details/50570989
+
