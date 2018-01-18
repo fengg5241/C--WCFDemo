@@ -49,3 +49,7 @@ https://stackoverflow.com/questions/14047754/how-to-add-cross-domain-support-to-
 【WCF】使用WCF测试客户端
 http://blog.csdn.net/u013036274/article/details/50570989
 
+
+好例子
+https://www.youtube.com/watch?v=mp7UsvwjjvY&t=8s
+
